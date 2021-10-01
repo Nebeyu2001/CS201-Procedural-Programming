@@ -6,6 +6,8 @@ public class Q1 {
 
     public static void main(String [] args){
 
+        // Question number 1a using scanner to ask the user to input value of the variables
+
         Scanner input = new Scanner(System.in);
 
         System.out.println("Enter A, B and C as doubles");
