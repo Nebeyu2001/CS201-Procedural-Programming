@@ -21,7 +21,7 @@ public class Q2<lengthInInch> {
         double lengthInInch= (totalLengthInInch % 12);
 
 
-
+        // the conversion is
         System.out.println("The length " + length + "cm" + " is equivalent to " + lengthInFeet + " feet &" + lengthInInch + " inches ");
 
 
